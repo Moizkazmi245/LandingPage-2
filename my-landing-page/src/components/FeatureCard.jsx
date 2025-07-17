@@ -1,5 +1,5 @@
 import React from 'react';
-import './FeatureCard.css';
+import '../FeatureCard.css';
 
 const features = [
   { title: 'Web Dev Projects', description: 'Work on real-world applications.' },
